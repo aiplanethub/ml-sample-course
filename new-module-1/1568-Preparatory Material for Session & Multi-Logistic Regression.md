@@ -40,11 +40,12 @@
 
 * Link to notebook: [https://dphi.tech/notebooks/893/manish\_kc\_06/multicla](https://dphi.tech/notebooks/893/manish\_kc\_06/multiclass\_logistic\_regression)[ss\_logistic\_regression?](https://dphi.tech/notebooks/893/manish\_kc\_06/multiclass\_logistic\_regression)
 
+
 ### Accuracy
 
 * Classiﬁcation Accuracy is what we usually mean, when we use the term accuracy. It is the ratio of number of correct predictions to the total number of input samples.
 
-![](<../.gitbook/assets/Screen Shot 2022-04-01 at 9.53.06 PM.png>)
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_321c8f132cb244d0932f26e11be5a89f.png)
 
 ### Why not Accuracy?
 
