@@ -1,4 +1,4 @@
-### Learning Objectives
+### Learning Objective
 
 * Multi- Logistic Classiﬁcation
 * Why not Accuracy?
